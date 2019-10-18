@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ping Pong</string>
+    <string name="nome_do_app">PingPongX</string>
+    <string name="logo_do_app">Logo PingPongX</string>
+</resources>
